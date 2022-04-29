@@ -2,11 +2,12 @@
 name = "aja"
 version = "0.1.0"
 description = ""
-authors = ["Gabriel Ma <gabe.ma@policygenius.com>"]
+authors = ["Gabriel Ma <gaboma19@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
 PyTMX = "^3.31"
+black = "^22.3.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
