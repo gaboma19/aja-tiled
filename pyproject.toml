@@ -8,6 +8,8 @@ authors = ["Gabriel Ma <gaboma19@gmail.com>"]
 python = "^3.10"
 PyTMX = "^3.31"
 black = "^22.3.0"
+pygame = "^2.1.2"
+pyscroll = "^2.30"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
